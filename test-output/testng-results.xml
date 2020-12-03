@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5617" started-at="2020-12-02T19:36:16Z" finished-at="2020-12-02T19:36:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5617" started-at="2020-12-02T19:36:16Z" finished-at="2020-12-02T19:36:22Z">
+      <class name="paypal.CreatePay">
+        <test-method status="PASS" signature="access()[pri:0, instance:paypal.CreatePay@3c153a1]" name="access" is-config="true" duration-ms="4568" started-at="2020-12-03T01:06:16Z" finished-at="2020-12-03T01:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- access -->
+        <test-method status="PASS" signature="createAPayment()[pri:0, instance:paypal.CreatePay@3c153a1]" name="createAPayment" duration-ms="837" started-at="2020-12-03T01:06:21Z" finished-at="2020-12-03T01:06:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAPayment -->
+      </class> <!-- paypal.CreatePay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
